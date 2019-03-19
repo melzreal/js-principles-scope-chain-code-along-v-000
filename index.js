@@ -18,9 +18,10 @@ var customerName = 'bob';
     return bestCustomer;
   }
 
+  const leastFavoriteCustomer = 'Dude';
 
-  function leastFavoriteCustomer(){
-    const leastFavoriteCustomer = 'Dude';
+  function leastFavoriteCustomer() {
+
     return leastFavoriteCustomer;
   }
 
