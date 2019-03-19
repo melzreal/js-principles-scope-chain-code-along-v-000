@@ -27,7 +27,7 @@ var customerName = 'bob';
   }
 
   function attemptTwoFavoriteCustomers() {
-    const favoriteCustomer = 'Mindy';
+    let favoriteCustomer = 'Mindy';
     favoriteCustomer = 'Shelly';
     return favoriteCustomer;
   }
