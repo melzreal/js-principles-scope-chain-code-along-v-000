@@ -25,5 +25,5 @@ function leastFavoriteCustomer(){
 
 
 function changeLeastFavoriteCustomer(){
-
+ leastFavoriteCustomer = "Pickle"
 }
