@@ -20,11 +20,6 @@ var customerName = 'bob';
 
   const leastFavoriteCustomer = 'Dude';
 
-  function leastFavoriteCustomer() {
-
-    return leastFavoriteCustomer;
-  }
-
 
   function changeLeastFavoriteCustomer(){
     leastFavoriteCustomer = 'Pickle';
