@@ -13,6 +13,7 @@ function setBestCustomer(){
 }
 
 function overWriteBestCustomer(){
+  const bestCustomer = 'maybe bob';
   return console.log('maybe bob');
 }
 
