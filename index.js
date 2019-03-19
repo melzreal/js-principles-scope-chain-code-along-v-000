@@ -1,6 +1,6 @@
 /* Your code goes here */
 
-const customerName = 'bob';
+var customerName = 'bob';
 
 function upperCaseCustomerName(){
   const customerName = 'bob';
