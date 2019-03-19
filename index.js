@@ -19,6 +19,11 @@ function overWriteBestCustomer(){
 }
 
 
+function leastFavoriteCustomer(){
+  const leastFavoriteCustomer = "";
+}
+
+
 function changeLeastFavoriteCustomer(){
 
 }
