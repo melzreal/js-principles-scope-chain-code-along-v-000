@@ -28,6 +28,6 @@ var customerName = 'bob';
 
   function attemptTwoFavoriteCustomers() {
     const favoriteCustomer = 'Mindy';
-    return favoriteCustomer = 'Shelly';
-
+    favoriteCustomer = 'Shelly';
+    return favoriteCustomer;
   }
