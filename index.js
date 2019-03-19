@@ -9,12 +9,12 @@ function upperCaseCustomerName(){
 
 function setBestCustomer(){
   const bestCustomer = 'not bob';
-  return console.log('not bob');
+  return bestCustomer;
 }
 
 function overWriteBestCustomer(){
   const bestCustomer = 'maybe bob';
-  return console.log('maybe bob');
+  return bestCustomer;
 }
 
 reassignLeastFavorite
