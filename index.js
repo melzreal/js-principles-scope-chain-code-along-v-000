@@ -22,9 +22,10 @@ function overWriteBestCustomer(){
 function leastFavoriteCustomer(){
   const leastFavoriteCustomer = 'Dude';
   return leastFavoriteCustomer;
+}
 
-  function changeLeastFavoriteCustomer(){
-   leastFavoriteCustomer = 'Pickle';
-   return leastFavoriteCustomer;
-  }
+
+function changeLeastFavoriteCustomer(){
+ leastFavoriteCustomer = 'Pickle';
+ return leastFavoriteCustomer;
 }
