@@ -25,3 +25,7 @@ var customerName = 'bob';
     leastFavoriteCustomer = 'Pickle';
     return leastFavoriteCustomer;
   }
+
+  function attemptTwoFavoriteCustomers() {
+
+  }
