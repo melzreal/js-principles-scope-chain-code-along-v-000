@@ -13,8 +13,10 @@ function setBestCustomer(){
 }
 
 function overWriteBestCustomer(){
-  const bestCustomer = 'maybe bob';
+  bestCustomer = 'maybe bob';
   return bestCustomer;
 }
 
-reassignLeastFavorite
+function changeLeastFavoriteCustomer(){
+
+}
